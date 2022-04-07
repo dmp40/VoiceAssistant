@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ЧтоГдеКогда</string>
+    <string name="action_stop">Стоп</string>
+    <string name="action_clear">Стереть</string>
+    <string name="request_hint">Что тебя интересует</string>
+    <string name="error_do_not_understand_">
+        Прости, я плохо слышу. Можешь громче?</string>
+    <string name="error_voice_recognition_unavailable">У тебя дифция</string>
+    <string name="error_something_went_wrong">Что-то поехало не туда</string>
+    <string name="error_tts_it_not_ready">TTS  недоступен</string>
+
+</resources>
